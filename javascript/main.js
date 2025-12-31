@@ -1,4 +1,4 @@
-import { location as LcS } from "./src/data/locations.js";
+import { location as LcS } from "../data/locations.js";
 
 const slider = document.getElementById("locationSlide");
 const sliderGuide = document.getElementById("slideGuide");
